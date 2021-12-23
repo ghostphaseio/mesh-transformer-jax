@@ -38,6 +38,6 @@
   "keep_every": 1000,
 
   "name": "buga",
-  "wandb_project": "mesh-transformer-jax",
+  "wandb_project": "",
   "comment": ""
 }
